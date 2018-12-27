@@ -1,0 +1,2 @@
+spider_description
+-DCATKIN_DEVEL_PREFIX=/home/chivas/Desktop/spider/devel -DCMAKE_INSTALL_PREFIX=/home/chivas/Desktop/spider/install -G Unix Makefiles

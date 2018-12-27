@@ -1,0 +1,8 @@
+prefix=/home/chivas/Desktop/spider/devel
+
+Name: spider_description
+Description: Description of spider_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chivas/Desktop/spider/devel/lib 
+Requires: 
