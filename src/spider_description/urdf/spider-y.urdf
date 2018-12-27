@@ -45,13 +45,13 @@
 			<inertia ixx="0.145833" ixy="0" ixz="0" iyy="0.145833" iyz="0" izz="0.125"/>
 		</inertial>
 		<collision name="left-front-thigh_collision">
-			<origin rpy="-1.57 0 0" xyz="0.75 1 0"/>
+			<origin rpy="-1.05 0 0" xyz="0.75 0.933 0.25"/>
 			<geometry>
 				<cylinder radius="0.1" length="1"/>
 			</geometry>
 		</collision>
 		<visual name="left-front-thigh_visual">
-			<origin rpy="-1.57 0 0" xyz="0.75 1 0"/>
+			<origin rpy="-1.05 0 0" xyz="0.75 0.933 0.25"/>
 			<geometry>
 				<cylinder radius="0.1" length="1"/>
 			</geometry>
@@ -64,13 +64,13 @@
 			<inertia ixx="0.145833" ixy="0" ixz="0" iyy="0.145833" iyz="0" izz="0.125"/>
 		</inertial>
 		<collision name="left-front-shank_collision">
-			<origin rpy="0 0 0" xyz="0.75 1.5 -0.5"/>
+			<origin rpy="0 0 0" xyz="0.75 1.366 0"/>
 			<geometry>
 				<cylinder radius="0.1" length="1"/>
 			</geometry>
 		</collision>
 		<visual name="left-front-shank_visual">
-			<origin rpy="0 0 0" xyz="0.75 1.5 -0.5"/>
+			<origin rpy="0 0 0" xyz="0.75 1.366 0"/>
 			<geometry>
 				<cylinder radius="0.1" length="1"/>
 			</geometry>
@@ -83,13 +83,13 @@
 			<inertia ixx="0.166667" ixy="0" ixz="0" iyy="0.166667" iyz="0" izz="0.166667"/>
 		</inertial>
 		<collision name="left-front-foot_collision">
-			<origin rpy="0 0 0" xyz="0.75 1.5 -1.025"/>
+			<origin rpy="0 0 0" xyz="0.75 1.366 -0.525"/>
 			<geometry>
 				<box size="0.2 0.6 0.05"/>
 			</geometry>
 		</collision>
 		<visual name="left-front-foot_visual">
-			<origin rpy="0 0 0" xyz="0.75 1.5 -1.025"/>
+			<origin rpy="0 0 0" xyz="0.75 1.366 -0.525"/>
 			<geometry>
 				<box size="0.2 0.6 0.05"/>
 			</geometry>
