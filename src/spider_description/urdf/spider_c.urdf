@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<robot name="spider">
+<robot name="spider_c">
 	<link name="body">
 		<inertial>
 			<mass value="1"/>
